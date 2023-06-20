@@ -1,0 +1,16 @@
+a = msgbox ("You are",4+32,"???.exe")
+a = msgbox ("sure",4+32,"???.exe")
+
+   if A=vbyes Then
+do
+        a= Msgbox ("what? error fatal",16,"???.exe")
+        a= Msgbox ("какая ошибка фатальная",16,"???.exe")
+        a= Msgbox ("WAZAAAAAAAAA",16,"???.exe")
+loop
+End If
+
+ if a=vbno then
+
+        b= Msgbox ("ok bye good ending")
+
+ End if

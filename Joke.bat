@@ -18,7 +18,7 @@ start shell32.dll
 start taskmgr.exe
 start regedit.exe
 start control
-start gpedit.exe
+start gpedit.msc
 start aadjcsp.dll
 start acmigration.dll
 start taskschd.msc
